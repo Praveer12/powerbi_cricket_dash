@@ -1,4 +1,5 @@
 ## Live IPL Scores Power BI Dashboard
+![View](https://github.com/Praveer12/powerbi_cricket_dash/blob/master/Images/ipl_show_page.png?raw=true)
 
 ### Project Overview
 
